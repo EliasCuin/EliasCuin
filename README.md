@@ -9,6 +9,6 @@ Java • TypeScript • Python (bit of Tensorflow + PyTorch, NumP) • SQL • N
 C# (Unity, Wpf) • Bit of C / Haskell / Prolog • Node.js (Express, Ejs)
 
 ## Languages
-*   **Deutsch & Français:** Native (Dual Citizen, AbiBac 🇩🇪🇫🇷)
-*   **English:** Fluent 🇬🇧
-*   **Español:** Basic 🇪🇸
+*   German and French: Native (Dual Citizen, AbiBac 🇩🇪🇫🇷)
+*   English: Fluent
+*   Spanish: Basic 🇪🇸
