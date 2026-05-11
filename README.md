@@ -11,4 +11,4 @@ C# (Unity, Wpf) • Bit of C / Haskell / Prolog • Node.js (Express, Ejs)
 ## Languages
 *   German and French: Native (Dual Citizen, AbiBac 🇩🇪🇫🇷)
 *   English: Fluent
-*   Spanish: Basic 🇪🇸
+*   Spanish: Basic
