@@ -1,14 +1,17 @@
 # Hi there, I'm Elias 👋
 
-Computer Science student at TU Berlin
-Interested in ML and theoretical computer science 
-Current Project: Federated ML for interpreting sensor data features
+**Computer Science Student at TU Berlin**
+*Focusing on Machine Learning & Theoretical Computer Science*
 
-## Tech Stack
-Java • TypeScript • Python (bit of Tensorflow + PyTorch, NumP) • SQL • Node.js
-C# (Unity, WPF) • Bit of C / Haskell / Prolog • Node.js (Express, EJS)
+## Current Project
+* **Federated ML:** Sensor data analytics for human motion tracking and pose estimation.
 
-## Languages
-*   German and French: Native (Dual Citizen, AbiBac 🇩🇪🇫🇷)
-*   English: Fluent
-*   Spanish: Basic
+### Tech Stack
+* **Languages:** Java • TypeScript • Python • C# • SQL • C • Haskell • Prolog
+* **AI/Data:** TensorFlow • PyTorch • NumPy
+* **Web/Tools:** Node.js (Express, EJS) • Unity • WPF
+
+### Languages
+* **German & French:** Native (Dual Citizen, AbiBac 🇩🇪🇫🇷)
+* **English:** Fluent 
+* **Spanish:** Basic 
