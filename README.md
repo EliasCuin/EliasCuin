@@ -12,6 +12,6 @@
 * **Web/Tools:** Node.js (Express, EJS) • Unity • WPF
 
 ## Languages
-* **German & French:** Native (Dual Citizen, AbiBac 🇩🇪🇫🇷)
+* **German & French:** Native 
 * **English:** Fluent 
 * **Spanish:** Basic 
